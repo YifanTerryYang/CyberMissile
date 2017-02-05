@@ -19,7 +19,7 @@ public class CyberMissile {
         FlightSystem fs = new FlightSystem();
         Warhead wh = new Warhead();
         //fs.setTarget("Argsfoh University");
-        fs.setTarget("Moon.");
+        fs.setTarget("The Moon.");
         //wh.explode();
         wh.selfDestruct();
     }
